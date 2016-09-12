@@ -1,0 +1,3 @@
+
+
+int flush_stdin();
